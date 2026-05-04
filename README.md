@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CMoments&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@CMoments)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CMoments&theme=tokyonight&hide_border=true&layout=compact&v=1)](https://wakatime.com/@CMoments)
 
 </div>
 
