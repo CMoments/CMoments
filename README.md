@@ -39,11 +39,8 @@
 
 ### ⏱️ WakaTime Stats
 
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CMoments&theme=tokyonight&hide_border=true&layout=compact&v=1)](https://wakatime.com/@CMoments)
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
