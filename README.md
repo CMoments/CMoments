@@ -53,20 +53,6 @@ Other          22 mins               █▒░░░░░░░░░░░░�
 
 ---
 
-### 📈 GitHub Stats
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="right" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMoments&hide_border=true&langs_count=8&theme=tokyonight&layout=compact" height="200" width="auto" />
-    </td>
-    <td width="50%" align="left" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=CMoments&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="200" width="auto" />
-    </td>
-  </tr>
-</table>
----
-
 <div align="center">
 
 *"Hardware is where logic meets reality — every bit counts."* 🔧
