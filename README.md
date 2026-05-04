@@ -40,6 +40,15 @@
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python         4 hrs 17 mins         ██████████████░░░░░░░░░░░   55.97 %
+Markdown       1 hr 36 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+TeX            44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+YAML           32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other          22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
