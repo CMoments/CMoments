@@ -42,9 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        31 mins               █████████████▓░░░░░░░░░░░   55.09 %
-Markdown   12 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-BibTeX     12 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
