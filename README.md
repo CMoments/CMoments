@@ -42,9 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     42 mins               ███████████████████████▓░   94.84 %
-JavaScript   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
